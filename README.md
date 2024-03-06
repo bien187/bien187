@@ -1,7 +1,6 @@
 ### Hi there 👋,  fellow earthlings and intergalactic travelers! 🚀 Welcome to my humble abode on GitHub, where the code gets wackier than a banana riding a unicycle!
 
-<!--
-**bien187/bien187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
