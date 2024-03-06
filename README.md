@@ -28,4 +28,4 @@ Thanks for stopping by, and remember: keep it wacky, keep it weird, and never un
 
 
 
-[#### Big B out 👋](https://tenor.com/de/view/im-out-homer-simpson-the-simpsons-bush-gotta-go-gif-12262416)
+[ Big B out 👋](https://tenor.com/de/view/im-out-homer-simpson-the-simpsons-bush-gotta-go-gif-12262416)
