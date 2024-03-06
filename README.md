@@ -26,7 +26,8 @@ Want to chat about coding, share your favorite conspiracy theories, or challenge
 
 Thanks for stopping by, and remember: keep it wacky, keep it weird, and never underestimate the power of a programmer with a vivid imagination! 🚀✨
 
+#### Big B out 👋
 
- ####Big B out 👋
+
 ![im-out-homer-simpson](https://github.com/bien187/bien187/assets/111043950/90591147-1bd7-4d2d-97ec-cf7bfd06a81e)
 
