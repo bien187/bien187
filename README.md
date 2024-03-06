@@ -26,6 +26,6 @@ Want to chat about coding, share your favorite conspiracy theories, or challenge
 
 Thanks for stopping by, and remember: keep it wacky, keep it weird, and never underestimate the power of a programmer with a vivid imagination! 🚀✨
 
-#### Big B out 👋
 
-[A test image](https://tenor.com/de/view/im-out-homer-simpson-the-simpsons-bush-gotta-go-gif-12262416)
+
+[#### Big B out 👋](https://tenor.com/de/view/im-out-homer-simpson-the-simpsons-bush-gotta-go-gif-12262416)
