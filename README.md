@@ -1,10 +1,10 @@
-## Hey there, I’m bien187
+## Hey there, I’m Ben Müller - also known as bien187
 
-🔭 I’m currently working on nothing
+🔭 I’m currently working on my Portfolio site
 
-🌱 I’m currently learning nothing
+🌱 I’m currently learning Tailwind CSS
 
-🎮 Goals 2024: nothing
+🎮 Goals 2024: Get a internship position - finish IMS
 
 #### Big B out 👋
 
