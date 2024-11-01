@@ -1,6 +1,6 @@
 ## Hey there, I’m Ben Müller - also known as bien187
 
-🔭 I’m currently working on my Portfolio site
+🔭 I’m currently working on Frickasino_LA0120
 
 🌱 I’m currently learning Tailwind CSS
 
