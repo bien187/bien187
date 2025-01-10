@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Tailwind CSS
 
-🎮 Goals 2024: Get a internship position - finish IMS
+🎮 Goals 2025: Get a internship position - finish IMS
 
 #### Big B out 👋
 
