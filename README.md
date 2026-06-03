@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning PowerShell Universal
 
-🎮 Goals 2026: Finish my Intership
+🎮 Goals 2026: Finish my Internship
 
 #### Big B out 👋
 
