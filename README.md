@@ -1,10 +1,10 @@
 ## Hey there, I’m Ben Müller - also known as bien187
 
-🔭 I’m currently working on 0130_IdeeninselV2
+🔭 I’m currently working at the Swiss National Bank
 
-🌱 I’m currently learning Tailwind CSS
+🌱 I’m currently learning PowerShell Universal
 
-🎮 Goals 2025: Get a internship position - finish IMS
+🎮 Goals 2026: Finish my Intership
 
 #### Big B out 👋
 
