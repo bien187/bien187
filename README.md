@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning PowerShell Universal
 
-🎮 Goals 2026: Finish my Internship
+🎮 Goals 2026: Pass the Selection of the Swiss Military Grenadiers
 
 #### Big B out 👋
 
