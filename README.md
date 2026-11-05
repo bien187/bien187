@@ -1,10 +1,6 @@
 ## Yurr
 
-🔭 I’m currently working at the Swiss National Bank
-
-🌱 I’m currently learning PowerShell Universal
-
-🎮 Goals 2026: Pass the Selection of the Swiss Military GrenadiersMach Sport und hau zwüschedure mal was use
+Mache Sport und hau zwischedure mal was use.
 
 #### Big B out 👋
 
