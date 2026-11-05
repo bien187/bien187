@@ -1,6 +1,6 @@
 ## Yurr
 
-Mache Sport und hau zwischedure mal was use.
+Mach Sport und hau zwischedure mal was use.
 
 #### Big B out 👋
 
