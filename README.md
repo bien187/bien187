@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning PowerShell Universal
 
-🎮 Goals 2026: Pass the Selection of the Swiss Military Grenadiers
+🎮 Goals 2026: Pass the Selection of the Swiss Military GrenadiersMach Sport und hau zwüschedure mal was use
 
 #### Big B out 👋
 
