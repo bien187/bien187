@@ -1,4 +1,4 @@
-## Hey there, I’m Ben Müller - also known as bien187
+## Yurr
 
 🔭 I’m currently working at the Swiss National Bank
 
